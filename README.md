@@ -1,2 +1,0 @@
-# deploy-ad
-deploy-ad
